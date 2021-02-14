@@ -2,7 +2,7 @@ const cluster_id = "cluster"
 
 module.exports = {
 	// Keys
-	bot_token: "discord bot token here",
+	bot_token: "ODA4NzAyNjEzODIxNzE4NTM5.YCKZAA.D1b7iF_9QgbK5qBEtKPwP6WDKAw",
 	mysql_password: "mysql password here",
 	yt_api_key: "youtube api key here",
 	chewey_api_key: "chewey bot api key here",
